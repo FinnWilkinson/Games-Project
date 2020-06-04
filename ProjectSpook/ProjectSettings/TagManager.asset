@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Moveable
+  - Keycard
+  - BeltSlot
+  - Door
+  - Wall
+  - Hand
+  - Handle
+  - Floor
+  - Tray
+  - Right Hand
+  - Left Hand
+  - Human
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactable
+  - Hand
+  - Player
+  - TriggerEvent
+  - Door
+  - Curtain
+  - CurtainCollider
+  - Particle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

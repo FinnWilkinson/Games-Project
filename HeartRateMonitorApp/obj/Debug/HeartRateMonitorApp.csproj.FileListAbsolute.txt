@@ -1,0 +1,20 @@
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\bin\Debug\HeartRateMonitorApp.exe.config
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\bin\Debug\HeartRateMonitorApp.exe
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\bin\Debug\HeartRateMonitorApp.pdb
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\bin\Debug\InTheHand.Net.Personal.dll
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\bin\Debug\InTheHand.Net.Personal.xml
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.csprojAssemblyReference.cache
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.csproj.CopyComplete
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.exe
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.pdb
+D:\Work\Year 3\Games Project\HeartRateMonitorApp\bin\Debug\Windows.WinMD
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\bin\Debug\HeartRateMonitorApp.exe.config
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\bin\Debug\HeartRateMonitorApp.exe
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\bin\Debug\HeartRateMonitorApp.pdb
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.csprojAssemblyReference.cache
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.csproj.CoreCompileInputs.cache
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.csproj.CopyComplete
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.exe
+C:\Users\Big Tasty\Documents\GitHub\project-spook\HeartRateMonitorApp\obj\Debug\HeartRateMonitorApp.pdb
